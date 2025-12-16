@@ -13,5 +13,3 @@ def vowel():
         print(f"{v} consonent")
 
 vowel()
-
-
