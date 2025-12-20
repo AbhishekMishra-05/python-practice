@@ -1,4 +1,4 @@
-#Access a character from a string 
+# #Access a character from a string 
 def character():
     char=[]
     letter="sentence"
