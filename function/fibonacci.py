@@ -11,3 +11,13 @@ num = int(input("Enter a number: "))
 result = fibonacci(num)
 print(f"Fibonacci of {num} is {result}")
     
+   
+   
+# fibonacci using iteration
+#     for _ in range (n):
+#         print(a, end="")
+#         next= a+b
+#         a=b
+#         b=next
+
+# fibonacci(5)
